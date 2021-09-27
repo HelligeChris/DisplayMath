@@ -1,1 +1,0 @@
-from displayMath_package.displayMath import displayMath
