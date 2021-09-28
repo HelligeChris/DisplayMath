@@ -10,7 +10,7 @@ setup(
     # Needed for dependencies
     install_requires=['sympy', 'IPython'],
     # *strongly* suggested for sharing
-    version='0.0.1',
+    version='0.0.2',
     # The license can be anything you like
     license='MIT',
     description='Display latex in python',
